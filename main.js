@@ -1,1 +1,1 @@
-console.log("hello world");
+(()=>{const e=document.querySelector("#content"),t=document.createElement("h1"),n=document.createElement("nav"),d=document.createElement("ul"),a=document.createElement("li"),c=document.createElement("li"),l=document.createElement("a"),m=document.createElement("a");n.appendChild(d),d.appendChild(a),d.appendChild(c),a.appendChild(l),c.appendChild(m),l.href="",l.textContent="Menu",m.href="",m.textContent="Contact",t.textContent="Come and taste!",e.appendChild(n),e.appendChild(t)})();
