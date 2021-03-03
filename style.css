@@ -1,0 +1,36 @@
+
+#content {
+  background-image: url(./images/meal.png);
+  height: 500px;
+  background-size: cover;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 1.2rem;
+  margin-left: 0px;
+  text-transform: capitalize;
+  list-style: none;
+}
+
+ul a {
+  display: block;
+  font-size: 20px;
+  font-weight: 800;
+  padding: 1.8rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(11, 15, 11);
+}
+
+
+h1 {
+  text-align: left;
+  padding-top: 5%;
+  padding-left: 50px;
+  text-transform: capitalize;
+  font-size: 36px;
+}
