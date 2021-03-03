@@ -1,0 +1,24 @@
+{
+  "name": "restaurant_homepage",
+  "version": "1.0.0",
+  "description": "The main goal of this project is for the student to show the understanding of the benefits of modularized code as well as the ability to set up a javascript application made of different modules using webpack.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeliceLydia/Restaurant_homepage.git"
+  },
+  "author": "Lydia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeliceLydia/Restaurant_homepage/issues"
+  },
+  "homepage": "https://github.com/DeliceLydia/Restaurant_homepage#readme",
+  "devDependencies": {
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
