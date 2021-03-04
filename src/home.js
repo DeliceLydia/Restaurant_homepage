@@ -1,5 +1,7 @@
 const home = (content) => {
-  const body = document.querySelector("#body");
+  const home = document.createElement('div');
+  home.setAttribute('id', 'home');
+  const container = document.querySelector("#content");
   const head = document.createElement("h1");
   const div = document.createElement("div");
   div.setAttribute("id", "about");
@@ -11,11 +13,12 @@ const home = (content) => {
   paragraph.textContent =
     "Our restaurant have differents types of foods but our speciality is african so if you feel like traveling in africa without taking a trip visit us!";
   image.src = "/images/meal.png";
-  body.appendChild(image);
+  container.appendChild(image);
   content.appendChild(head);
   div.appendChild(aboutUs);
   div.appendChild(paragraph);
-  body.appendChild(div);
+  container.appendChild(div);
+  content.appendChild(home);
 };
 
 export default home;
