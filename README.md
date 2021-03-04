@@ -3,6 +3,19 @@
 The main goal of this project is enhancing the knowledge on DOM manipulation and to set up a javascript application made of different modules using webpack while working on a simple restaurant webpage.
 
 
+## Features
+
+- A user can visit a homepage
+- A user can view our menu
+- A user can contact us
+
+## Built With
+
+- Javascript
+- HTML
+- CSS
+- Webpack
+
 ## Getting Started
 
 * Clone this repo
