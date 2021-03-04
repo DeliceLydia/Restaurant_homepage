@@ -22,13 +22,13 @@ tabs.forEach(tab => {
 });
 
 homeTab.addEventListener('click', () => {
-  home(content)
+  home(content);
 });
 
 menuTab.addEventListener('click', () => {
-  menu(content)
+  menu(content);
 });
 
 contactTab.addEventListener('click', () => {
-  contact(content)
+  contact(content);
 });

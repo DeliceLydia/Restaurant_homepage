@@ -3,7 +3,7 @@ const contact = (content) => {
   contact.setAttribute('id', 'contact');
   const details = document.createElement('div');
   details.setAttribute('id', 'details');
-  details.innerHTML = '<ul class="list"><li>Tel: +250785022516</li><li>Email: restaurant@gmail.com</li></ul>'
+  details.innerHTML = '<ul class="list"><li>Tel: +250785022516</li><li>Email: restaurant@gmail.com</li></ul>';
   const img = document.createElement('img');
   img.src = '/images/contact.jpeg';
   contact.appendChild(img);
@@ -11,4 +11,4 @@ const contact = (content) => {
   content.appendChild(contact);
 };
 
-export default contact
+export default contact;
