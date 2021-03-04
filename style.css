@@ -83,5 +83,11 @@ p {
 
 #image {
   width: 50%;
-  margin: 30px 25%;
+  margin: 10% 25%;
+}
+
+.list li {
+  color: rgb(35, 85, 35);
+  text-align: center;
+  font-size: 18px;
 }
