@@ -2,7 +2,7 @@
 
 The main goal of this project was to practice the knowledge of DOM manipulation by dynamically rendering a simple restaurant webpage.
 
-![screenshot](./meal.png)
+![screenshot](./shot.png)
 
 
 ## Features
