@@ -1,6 +1,8 @@
 # Restaurant_homepage
 
-The main goal of this project is enhancing the knowledge on DOM manipulation and to set up a javascript application made of different modules using webpack while working on a simple restaurant webpage.
+The main goal of this project was to practice the knowledge of DOM manipulation by dynamically rendering a simple restaurant webpage.
+
+![screenshot](./shot.png)
 
 
 ## Features
@@ -28,14 +30,16 @@ The main goal of this project is enhancing the knowledge on DOM manipulation and
     ```
 * On the terminal, while in the 'Restaurant_homepage' directory:
 
-* Run ``` git checkout gh-pages ```
+* Run ``` git checkout feature-branch ```
+
+* Run ``` git pull origin feature-branch ```
 
 * Run ``` yarn install ``` or ``` npm install``` to install dependencies
 
 * Run ``` npx webpack ```
    
 * Go to the browser and enter 
-    ```http://127.0.0.1:5501/dist/index.html#``` and you are now able to visit the app
+    ```http://127.0.0.1:5501/dist/index.html``` and you are now able to visit the app
 
 
 ## Live Demo
