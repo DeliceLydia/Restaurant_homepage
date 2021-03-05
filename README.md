@@ -42,7 +42,7 @@ The main goal of this project is enhancing the knowledge on DOM manipulation and
 
 ## Live Demo
 
-Click [here]()
+Click [here](https://delicelydia.github.io/Restaurant_homepage/#)
 
 ## Author
 
