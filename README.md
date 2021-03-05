@@ -28,9 +28,7 @@ The main goal of this project is enhancing the knowledge on DOM manipulation and
     ```
 * On the terminal, while in the 'Restaurant_homepage' directory:
 
-* Run ``` git branch feature-branch ```
-
-* Run ``` git pull origin feature-branch ```
+* Run ``` git checkout gh-pages ```
 
 * Run ``` yarn install ``` or ``` npm install``` to install dependencies
 
