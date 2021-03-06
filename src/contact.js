@@ -5,7 +5,7 @@ const contact = (content) => {
   details.setAttribute('id', 'details');
   details.innerHTML = '<ul class="list"><li>Tel: +250785022516</li><li>Email: restaurant@gmail.com</li></ul>';
   const img = document.createElement('img');
-  img.src = '/images/contact.jpeg';
+  img.src = '../images/contact.jpeg';
   contact.appendChild(img);
   contact.appendChild(details);
   content.appendChild(contact);

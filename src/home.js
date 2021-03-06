@@ -11,7 +11,7 @@ const home = (content) => {
   head.textContent = 'Come and taste our delicious african food!';
   aboutUs.textContent = 'About our restaurant!';
   paragraph.textContent = 'Our restaurant have differents types of foods but our speciality is african so if you feel like traveling in africa without go on safari visit us!';
-  image.src = '/images/meal.png';
+  image.src = '../images/meal.png';
   container.appendChild(image);
   content.appendChild(head);
   div.appendChild(aboutUs);
