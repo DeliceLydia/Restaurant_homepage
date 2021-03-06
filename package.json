@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DeliceLydia/Restaurant_homepage#readme",
   "devDependencies": {
+    "css-loader": "^5.1.1",
     "stylelint": "^13.3.3",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-csstree-validator": "^1.9.0",
